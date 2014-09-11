@@ -8,5 +8,5 @@ jdk:
 # test
 script: echo 'ABCDEFG'
 
-after_script: echo ${TRAVIS_TEST_RESULT}
+after_script: echo '${TRAVIS_TEST_RESULT}'
 
