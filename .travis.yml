@@ -1,9 +1,9 @@
 language: java
 jdk:
-  - oraclejdk8
-  - oraclejdk7
+#  - oraclejdk8
+#  - oraclejdk7
   - openjdk7
-  - openjdk6
+#  - openjdk6
 
-after_script: echo $TRAVIS_TEST_RESULT
+after_script: echo ${TRAVIS_TEST_RESULT}
 
