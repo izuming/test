@@ -6,7 +6,8 @@ jdk:
 #  - openjdk6
 
 # test
-script: echo 'ABCDEFG'
+script: 
+ - echo 'ABCDEFG'
 
 after_script: echo '${TRAVIS_TEST_RESULT}'
 
