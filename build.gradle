@@ -8,5 +8,6 @@ sourceSets {
 	}
 }
 
-
+task assemble {
+}
 
