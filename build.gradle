@@ -1,8 +1,5 @@
 apply plugin: 'java'
 
-task assemble {
-}
-
 sourceSets {
 	main {
 		java {
