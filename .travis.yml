@@ -17,7 +17,7 @@ deploy:
  provider: heroku
  api_key: "RBUQ9RbAR0mxiuoSWWu0g0h+xqBL02PwYaZPekhrkUwo7J6232NK4AWV6Aj2yoD5n8oavGZEdXRyU6S/iEa1eWEAZZZbljpCkEiaxcjCcU6SlsvWChjz8o0Z/Rus1lfCn5o6GtZjsprUn5pM+rP9pagJvs0UrElZ2X4oE4hVOT0="
  app:
-   develop: test
+   develop: nameless-river-1884
 
 
 
